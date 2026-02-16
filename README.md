@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Akshat+Nautiyal;Full+Stack+Developer;AI+%26+ML+Enthusiast" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Akshat+Nautiyal" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+FastAPI+%7C+PostgreSQL;Building+Scalable+Systems" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
