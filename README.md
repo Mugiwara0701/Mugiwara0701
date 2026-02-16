@@ -1,63 +1,63 @@
 <h1 align="center">Hi 👋, I'm Akshat Nautiyal</h1>
-<h3 align="center">Software Developer | AI & ML Enthusiast | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+FastAPI+%7C+PostgreSQL;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate
-- 💻 Passionate about Full Stack Development & Machine Learning
-- 🔍 Currently exploring System Design & Backend Architecture
-- 🎯 Preparing for IT roles & competitive technical exams
-- 🌱 Always learning new technologies
+- 💻 Full Stack Developer (React + FastAPI)
+- 🤖 Machine Learning & AI Projects
+- 🛢 Strong in PostgreSQL & SQL
+- 📚 Preparing for IT roles & competitive exams
+- 🌱 Passionate about backend systems & scalable architecture
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- Python
-- JavaScript
-- SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
 
 ### 🌐 Frontend
-- React.js
-- HTML5
-- CSS3
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### ⚙ Backend
-- FastAPI
-- Node.js
-- Express.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
 ### 🗄 Database
-- PostgreSQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
 ### 🤖 AI / ML
-- Scikit-Learn
-- TensorFlow / Keras
-- OpenCV
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Network Anomaly Detection System
-- Real-time network traffic monitoring
-- Machine Learning based anomaly detection
-- FastAPI backend + React frontend
+🔹 **Network Anomaly Detection System**  
+Real-time network monitoring using ML | React + FastAPI
 
-### 🔹 Pneumonia Detection using Deep Learning
-- CNN-based model
-- Medical image classification
+🔹 **Pneumonia Detection using Deep Learning**  
+CNN-based medical image classifier
 
-### 🔹 Plant Disease Detection
-- Image-based classification
-- Deep learning model deployment
+🔹 **Plant Disease Detection**  
+Image classification using deep learning
 
-### 🔹 Cyber Attack Detection
-- ML model for identifying malicious patterns
-- Data preprocessing + classification
+🔹 **Cyber Attack Detection System**  
+ML-based malicious traffic detection
 
 ---
 
@@ -73,10 +73,21 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mugiwara0701&theme=algolia" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+<p align="left">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
