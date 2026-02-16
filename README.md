@@ -1,12 +1,11 @@
 <h1 align="center">
-  <span style="font-size:40px; font-weight:bold; background: linear-gradient(90deg,#00F7FF,#ff00c8,#00F7FF); -webkit-background-clip:text; color:transparent;">
-    Akshat Kumar Nautiyal
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Akshat+Nautiyal;Full+Stack+Developer;AI+%26+ML+Enthusiast" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;React+%7C+FastAPI+%7C+PostgreSQL;Building+Scalable+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
+
 
 
 ---
