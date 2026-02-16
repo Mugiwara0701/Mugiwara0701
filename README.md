@@ -44,6 +44,17 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugiwara0701&show_icons=true&theme=tokyonight" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugiwara0701&theme=tokyonight" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -61,17 +72,7 @@ ML-based malicious traffic detection
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mugiwara0701&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugiwara0701&theme=tokyonight" />
-</p>
-
----
 
 
 ## 📫 Connect With Me
