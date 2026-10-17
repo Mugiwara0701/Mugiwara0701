@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mugiwara0701&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugiwara0701&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugiwara0701&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugiwara0701&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </p>
 
 <p align="center">
