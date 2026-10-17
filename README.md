@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugiwara0701&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&card_width=600" width="600" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugiwara0701&layout=compact&langs_count=40&theme=tokyonight&hide_border=true&card_width=600&size_weight=0.5&count_weight=0.5" width="600" alt="Most Used Languages" />
 </p>
 
 <p align="center">
